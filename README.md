@@ -1,0 +1,2 @@
+# python-opencv-barcode-automation
+A first-year mini-project at QUT in IFB102 (2018).  NB: he 5MP Raspberry Pi Camera used has no auto-focus, so QR codes read fine, however, for ordinary bar codes this was not so.   The two main libraries used are:  -OpenCV (for the computer vision competent) -PyZbar (the Python flavour of Zbar - for reading barcodes)   The python script has been adapted from Adrian Rosebrock's tutorial at: 
