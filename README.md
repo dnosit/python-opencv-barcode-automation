@@ -1,8 +1,8 @@
 # python-opencv-barcode-automation
 
-A first-year mini-project at QUT in IFB102 (2018).  
+This is the python component from a first-year mini-project at QUT in IFB102 (2018).  
 
-This python script has been adapted from Adrian Rosebrock's tutorial at: 
+The python script has been adapted from Adrian Rosebrock's tutorial at: 
 https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/
 
 The two main libraries used are:  
